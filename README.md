@@ -1,4 +1,7 @@
 Dread
 =====
 
-Post your rxbm models here for my game. Also post what we need to add.
+This is where you can post your models for my game.
+List of models/scripts we need:
+
+Coming Soon (PM me, Databrain what you think the game needs)
